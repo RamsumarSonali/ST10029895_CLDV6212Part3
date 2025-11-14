@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Main",
+    "Projects": [
+      {
+        "Path": "ABCRetailers.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
