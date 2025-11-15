@@ -6,7 +6,7 @@
     <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
     <View_SelectedScaffolderID>RazorViewEmptyScaffolder</View_SelectedScaffolderID>
     <View_SelectedScaffolderCategoryPath>root/Common/MVC/View</View_SelectedScaffolderCategoryPath>
-    <NameOfLastUsedPublishProfile>C:\Users\USER-PC\Documents\School\CLDV\B\ST104452280-CLDV6212-POE-Part-2\POE Part 2\ABCRetailers\Properties\PublishProfiles\st10445280ABCRetailers - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\lab_services_student\Desktop\Cloud part 3\ST10029895_CLDV6212Part3\ASP.NET Project\ASP.NET Project\ABCRetailers\Properties\PublishProfiles\ST10029895 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
